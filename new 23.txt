@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>32. Программирование</title>
+	</head>
+	
+	<frameset cols="200,*">
+		<frameset rows="150,*" border="0">
+			<frame src="logo.html" scrolling="no" marginwidth="0" marginheight="0">
+			<frame src="menu.html">
+		</frameset>
+		<frame src="content.html" name="window-1">
+	</frameset>
+</html>
